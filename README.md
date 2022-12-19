@@ -28,9 +28,10 @@ You will see the traces of the services involved in the execution [2].
 ## Reference figures
 
 ### Jaeger UI Search Panel [1]
-Photo
+![Jaeger UI](https://user-images.githubusercontent.com/37672135/208459696-8c716e5b-e210-40a8-867a-e88d4eda4fe0.png)
 
 ### Jaeger UI Trace Panel [2]
+![Jaeger Trace](https://user-images.githubusercontent.com/37672135/208459786-925b64ed-516c-4b79-a7fa-1820cd7a11f5.png)
 
 # Uninstalling
 

@@ -1,0 +1,8 @@
+# Ignore IntelliJ PyCharm folder
+.idea
+
+# Ignore JSON outputs
+*.json
+
+# Ignore venv
+opentelemetry/
